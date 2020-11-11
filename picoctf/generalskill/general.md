@@ -1,6 +1,10 @@
-## 2Warm 50 point \
+## 2Warm 50 point 
 ```
-แปลงเลขฐาน จาก 42 ฐาน10 ไป ฐาน2\
-PICOCTF{101010} \
+แปลงเลขฐาน จาก 42 ฐาน10 ไป ฐาน2
+PICOCTF{101010} 
 ```
-Lets Warm Up 
+## Lets Warm Up 50 point
+```
+hex decimal 0x70 มา ascii text
+picoCTF{p}
+```
