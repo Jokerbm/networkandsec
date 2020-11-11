@@ -13,3 +13,8 @@ picoCTF{p}
 What is 0x3D (base 16) in decimal (base 10)?
 picoCTF{61}
 ```
+## Bases 100 point
+```
+bDNhcm5fdGgzX3IwcDM1
+แปลงออกจาก base 64 เป็น  picoCTF{l3arn_th3_r0p35}
+```
