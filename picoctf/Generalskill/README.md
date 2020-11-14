@@ -18,3 +18,8 @@ picoCTF{61}
 bDNhcm5fdGgzX3IwcDM1
 แปลงออกจาก base 64 เป็น  picoCTF{l3arn_th3_r0p35}
 ```
+## First Grep 100 point
+```
+เอา file มา grep 
+picoCTF{grep_is_good_to_find_things_5af9d829}
+```
