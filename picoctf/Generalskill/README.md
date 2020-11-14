@@ -23,3 +23,8 @@ bDNhcm5fdGgzX3IwcDM1
 เอา file มา grep 
 picoCTF{grep_is_good_to_find_things_5af9d829}
 ```
+## strings it  100 point
+```
+เอาfile มา กด search
+picoCTF{5tRIng5_1T_7f766a23}
+```
